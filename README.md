@@ -35,3 +35,7 @@ The goal of this project is to analyze customer behavior using telecom data and 
 TC analysis.ipynb          # Main analysis notebook
 Customer Churn.csv         # Dataset used
 README.md                  # Project documentation (this file)
+
+## Conclusion
+This analysis provides clear evidence that customer churn is influenced by contract type, service usage, payment method, and customer tenure. By focusing on high-risk groups such as senior citizens, new users, and electronic check payers, telecom companies can develop targeted retention strategies.
+Implementing long-term contract incentives, bundling essential services, and improving the early customer experience can significantly reduce churn and boost customer lifetime value. This project lays the groundwork for more advanced predictive modeling and real-time churn prevention systems.
